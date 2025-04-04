@@ -1,0 +1,913 @@
+[25-Nov-2024 07:27:50 UTC] PHP Warning:  require(stripe_config.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripper/payment.php on line 3
+[25-Nov-2024 07:27:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe_config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripper/payment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripper/payment.php on line 3
+[26-Nov-2024 08:51:11 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[26-Nov-2024 08:51:11 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 44
+[26-Nov-2024 08:51:44 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[26-Nov-2024 08:51:44 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 44
+[26-Nov-2024 08:51:58 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[26-Nov-2024 08:51:58 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 44
+[26-Nov-2024 08:56:36 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[26-Nov-2024 08:56:36 UTC] PHP Warning:  Undefined variable $total in /home/ot2ryobi838h/public_html/stripe/index.php on line 44
+[26-Nov-2024 08:58:33 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[26-Nov-2024 08:58:53 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[14-Jan-2025 17:00:42 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:00:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:00:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:18 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:22 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/index.php on line 8
+[14-Jan-2025 17:01:22 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:01:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:04:42 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:04:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:04:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:06:36 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:07:20 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:10:28 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:10:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:10:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:26:55 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:26:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:26:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:27:47 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_cEdgIvCMbCaxrO) No such token: 'tok_1QhDu2IXNNwsG0dJkey3JSrx'; a similar object exists in test mode, but a live mode key was used to make this request.
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhDu2IXNNwsG0dJkey3JSrx'; a similar object exists in test mode, but a live mode key was used to make this request. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:28:12 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_NDXu6nDu47gG3M) No such token: 'tok_1QhDuRIXNNwsG0dJqg56Kll1'; a similar object exists in test mode, but a live mode key was used to make this request.
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhDuRIXNNwsG0dJqg56Kll1'; a similar object exists in test mode, but a live mode key was used to make this request. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:29:16 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_ZTzWphQlEgBEfQ) No such token: 'tok_1QhDvTIXNNwsG0dJHUhrokZj'; a similar object exists in test mode, but a live mode key was used to make this request.
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhDvTIXNNwsG0dJHUhrokZj'; a similar object exists in test mode, but a live mode key was used to make this request. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:36:01 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:36:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:36:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:36:43 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_TyFloR6iZ7QrWm) No such token: 'tok_1QhE2gIXNNwsG0dJGKpSJUCl'; a similar object exists in test mode, but a live mode key was used to make this request.
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhE2gIXNNwsG0dJGKpSJUCl'; a similar object exists in test mode, but a live mode key was used to make this request. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:50:39 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:50:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:50:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:50:59 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_6VUKQnYrKv5SsP) No such token: 'tok_1QhEGUIXNNwsG0dJMm6PPq5r'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhEGUIXNNwsG0dJMm6PPq5r' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:51:16 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_YG8DxfFG9roNFN) No such token: 'tok_1QhEGlIXNNwsG0dJRNqd1D5t'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhEGlIXNNwsG0dJRNqd1D5t' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:51:16 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_hQkQEKmBEiWIRA) No such token: 'tok_1QhEGmIXNNwsG0dJBQjx0wey'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1QhEGmIXNNwsG0dJBQjx0wey' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(48): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[14-Jan-2025 17:54:30 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[14-Jan-2025 17:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 28
+[18-Jan-2025 16:24:25 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[18-Jan-2025 16:24:25 UTC] PHP Warning:  require(../app/config/settins.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[18-Jan-2025 16:24:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/config/settins.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[18-Jan-2025 16:25:16 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[18-Jan-2025 16:25:16 UTC] PHP Warning:  require(../app/config/settings.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[18-Jan-2025 16:25:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/config/settings.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[18-Jan-2025 16:27:42 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[18-Jan-2025 16:31:08 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/ot2ryobi838h/public_html/stripe/index.php on line 19
+[18-Jan-2025 16:32:54 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[03-Feb-2025 18:11:59 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[14-Feb-2025 11:44:52 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[14-Feb-2025 11:44:52 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:21:09 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[15-Feb-2025 10:21:09 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:51:12 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:51:13 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:51:20 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:53:54 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:53:56 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:53:59 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:56:39 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:56:41 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 10:56:43 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 11:00:03 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[15-Feb-2025 11:00:03 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 11:08:00 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 11:15:44 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 11:25:20 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Feb-2025 11:55:30 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[26-Feb-2025 21:13:02 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 21:47:13 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 21:47:17 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 21:53:28 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 21:53:33 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:14:41 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:15:14 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:22:25 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:28:04 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:28:13 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[01-Mar-2025 22:32:56 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 07:30:50 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 08:32:09 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 10:08:47 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 19:26:52 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:26:50 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:28:12 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:28:37 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:28:43 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:36:38 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:36:38 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/ot2ryobi838h/public_html/stripe/index.php:19
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/index.php(19): number_format()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 19
+[02-Mar-2025 20:36:44 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:36:44 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/ot2ryobi838h/public_html/stripe/index.php:19
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/index.php(19): number_format()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 19
+[02-Mar-2025 20:36:57 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:36:57 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/ot2ryobi838h/public_html/stripe/index.php:19
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/index.php(19): number_format()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 19
+[02-Mar-2025 20:38:01 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:41:29 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:41:47 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[02-Mar-2025 20:42:06 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[03-Mar-2025 04:27:16 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[03-Mar-2025 21:37:25 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[05-Mar-2025 14:33:35 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:41:02 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:41:47 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:42:12 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:46:38 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:46:54 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[06-Mar-2025 15:47:22 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[07-Mar-2025 23:27:06 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[08-Mar-2025 23:01:10 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[09-Mar-2025 00:22:10 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[09-Mar-2025 08:02:50 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[10-Mar-2025 04:53:05 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[11-Mar-2025 11:11:34 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[13-Mar-2025 15:56:31 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[15-Mar-2025 11:25:25 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 21:02:22 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 21:27:09 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 21:31:07 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 21:55:21 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 21:55:44 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 21:55:45 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_EZznEiBmGKhjU6) No such token: 'tok_1R3P9oIXNNwsG0dJ1cP0Asej'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3P9oIXNNwsG0dJ1cP0Asej' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 21:59:43 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:00:00 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:00:00 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_kkeawDOp6qVwUR) No such token: 'tok_1R3PDvIXNNwsG0dJr26EpFgR'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PDvIXNNwsG0dJr26EpFgR' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:22:48 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:23:02 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:23:24 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:23:42 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:24:07 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:24:12 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/index.php on line 9
+[16-Mar-2025 22:24:12 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:24:21 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:24:35 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:24:51 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:25:03 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:25:46 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:35:13 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:37:28 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:39:01 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:39:35 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:40:03 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:40:03 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_Y8HBSaF7CSYH1G) No such token: 'tok_1R3PqgIXNNwsG0dJ8huP7OVp'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PqgIXNNwsG0dJ8huP7OVp' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:40:17 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:40:17 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_4S4vg68dADSjXH) No such token: 'tok_1R3PquIXNNwsG0dJXVYBRYuO'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PquIXNNwsG0dJXVYBRYuO' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:40:54 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:41:57 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:41:58 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_rfp0V3K0Jnj46F) No such token: 'tok_1R3PsXIXNNwsG0dJGyxiPysi'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PsXIXNNwsG0dJGyxiPysi' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:43:52 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:44:10 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:44:10 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_5r3c6sF7NdCaXU) No such token: 'tok_1R3PufIXNNwsG0dJurCEC5wz'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PufIXNNwsG0dJurCEC5wz' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:44:23 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:44:24 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_k4k29LxQkwlurP) No such token: 'tok_1R3PutIXNNwsG0dJjN1Qn4lC'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PutIXNNwsG0dJjN1Qn4lC' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:44:48 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:45:38 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:45:38 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_1UQbwko4Ge4Ndh) No such token: 'tok_1R3Pw5IXNNwsG0dJSbngeqvb'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3Pw5IXNNwsG0dJSbngeqvb' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:46:28 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:47:41 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:47:41 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[16-Mar-2025 22:47:57 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[16-Mar-2025 22:47:57 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_50NfsS9CBQkEBg) No such token: 'tok_1R3PyKIXNNwsG0dJvpy8ZVeJ'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3PyKIXNNwsG0dJvpy8ZVeJ' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(17): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[16-Mar-2025 22:51:12 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[16-Mar-2025 22:51:12 UTC] PHP Warning:  Undefined array key "id" in /home/ot2ryobi838h/public_html/stripe/index.php on line 11
+[17-Mar-2025 06:59:09 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 06:59:09 UTC] PHP Warning:  Undefined variable $id in /home/ot2ryobi838h/public_html/stripe/index.php on line 21
+[17-Mar-2025 07:05:20 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:05:38 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:05:38 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:05:38 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_y0TGlOTOiUFL1b) No such token: 'tok_1R3XjxIXNNwsG0dJxFYgAGwE'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XjxIXNNwsG0dJxFYgAGwE' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:05:55 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:05:55 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:05:55 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_lMCGH1Lcs6tl6E) No such token: 'tok_1R3XkEIXNNwsG0dJwV58iVwV'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XkEIXNNwsG0dJwV58iVwV' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:06:24 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:07:59 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:07:59 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:08:00 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_Gxyyd8tbX4SK5W) No such token: 'tok_1R3XmFIXNNwsG0dJt0h2Aj1E'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XmFIXNNwsG0dJt0h2Aj1E' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:08:10 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:08:10 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:08:10 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_4iZrzbldC1izz5) No such token: 'tok_1R3XmPIXNNwsG0dJRq0GzAlq'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XmPIXNNwsG0dJRq0GzAlq' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:10:37 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:10:48 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:10:48 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:10:48 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_ngvN9HfXHdETFs) No such token: 'tok_1R3XoxIXNNwsG0dJjgwjGcgZ'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XoxIXNNwsG0dJjgwjGcgZ' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:13:20 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:13:31 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:13:31 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:13:32 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_UKNbrgKVPHHoCM) No such token: 'tok_1R3XrbIXNNwsG0dJfrRC2Pt9'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XrbIXNNwsG0dJfrRC2Pt9' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:16:51 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:17:13 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:17:13 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:17:13 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_JRMnfkoJnFhGaV) No such token: 'tok_1R3XvAIXNNwsG0dJVhK8Wj0n'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XvAIXNNwsG0dJVhK8Wj0n' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:19:04 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:19:22 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[17-Mar-2025 07:19:22 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:19:23 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_an6cYzbupGUtLE) No such token: 'tok_1R3XxGIXNNwsG0dJLkxqdE22'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3XxGIXNNwsG0dJLkxqdE22' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(18): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:23:16 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:24:47 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:27:10 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:28:40 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:29:28 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:30:33 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:32:19 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:33:03 UTC] PHP Warning:  require(stripe/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/payment.php on line 6
+[17-Mar-2025 07:33:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/payment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/payment.php on line 6
+[17-Mar-2025 07:33:34 UTC] PHP Warning:  require(../app/config/stripe.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/payment.php on line 7
+[17-Mar-2025 07:33:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/config/stripe.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/payment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/payment.php on line 7
+[17-Mar-2025 07:35:33 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:35:56 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:35:56 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[17-Mar-2025 07:35:56 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[17-Mar-2025 07:35:56 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 14
+[17-Mar-2025 07:35:56 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_sKINOkutL4XDrZ) Must provide source or customer.
+Stripe\Exception\InvalidRequestException: Must provide source or customer. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(21): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:38:51 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 11
+[17-Mar-2025 07:38:51 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[17-Mar-2025 07:38:51 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[17-Mar-2025 07:38:51 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 14
+[17-Mar-2025 07:38:51 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_XtZVQ0chOGJPdP) Must provide source or customer.
+Stripe\Exception\InvalidRequestException: Must provide source or customer. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(21): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 07:39:02 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 07:40:18 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/index.php on line 10
+[17-Mar-2025 08:03:36 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_wf94wFhHUcQUjo) No such token: 'tok_1R3Ye4IXNNwsG0dJdFks2czN'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3Ye4IXNNwsG0dJdFks2czN' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(26): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 08:05:04 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_FR7XfKaiizvjj7) No such token: 'tok_1R3YfTIXNNwsG0dJ0lSbewmx'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3YfTIXNNwsG0dJ0lSbewmx' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(26): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 08:05:52 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_ev7Oxnr7TBl4WF) No such token: 'tok_1R3YgFIXNNwsG0dJWoTjaPzG'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3YgFIXNNwsG0dJWoTjaPzG' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(26): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Mar-2025 08:07:25 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_3wkCgvefMCYXRm) No such token: 'tok_1R3YhkIXNNwsG0dJWRGLvEc7'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3YhkIXNNwsG0dJWRGLvEc7' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(26): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Mar-2025 07:55:36 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_gjmSIHHJsw9Qf7) No such token: 'tok_1R3uzrIXNNwsG0dJpZqZsqfH'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3uzrIXNNwsG0dJpZqZsqfH' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(26): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Mar-2025 07:59:38 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[18-Mar-2025 07:59:38 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[18-Mar-2025 07:59:38 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[18-Mar-2025 07:59:38 UTC] PHP Warning:  Undefined array key "operation" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[18-Mar-2025 07:59:56 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_I8DWravMOJv0Ev) No such token: 'tok_1R3v43IXNNwsG0dJSVZAzXsn'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3v43IXNNwsG0dJSVZAzXsn' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(27): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Mar-2025 08:01:05 UTC] PHP Warning:  require(../app/config/settings.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[18-Mar-2025 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/config/settings.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 13
+[18-Mar-2025 08:58:23 UTC] PHP Warning:  require(stripe/config.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 08:58:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 08:58:24 UTC] PHP Warning:  require(stripe/config.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 08:58:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 08:58:59 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 33
+[18-Mar-2025 08:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 33
+[18-Mar-2025 08:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 33
+[18-Mar-2025 08:59:34 UTC] PHP Warning:  require(stripe/config.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 08:59:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/index.php on line 12
+[18-Mar-2025 09:00:29 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_jstPod3P1hj6VU) No such token: 'tok_1R3w0eIXNNwsG0dJ6NfehIcc'
+Stripe\Exception\InvalidRequestException: No such token: 'tok_1R3w0eIXNNwsG0dJ6NfehIcc' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(22): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Mar-2025 09:44:20 UTC] PHP Warning:  Undefined array key "payment_method" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 15
+[18-Mar-2025 09:54:50 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:02:29 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:04:27 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:12:39 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:12:39 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 14
+[18-Mar-2025 10:13:42 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:13:42 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 14
+[18-Mar-2025 10:48:04 UTC] PHP Warning:  require(stripe/config.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/payment.php on line 6
+[18-Mar-2025 10:48:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'stripe/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/payment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/payment.php on line 6
+[18-Mar-2025 10:49:07 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 10
+[18-Mar-2025 10:49:07 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:49:07 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_VFNrio0DyyEJTK) Must provide source or customer.
+Stripe\Exception\InvalidRequestException: Must provide source or customer. in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiOperations/Request.php(111): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Charge.php(91): Stripe\ApiResource::_staticRequest()
+#7 /home/ot2ryobi838h/public_html/stripe/payment.php(19): Stripe\Charge::create()
+#8 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Mar-2025 10:52:11 UTC] PHP Warning:  Undefined array key "token" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 12
+[18-Mar-2025 10:52:11 UTC] PHP Warning:  Undefined array key "description" in /home/ot2ryobi838h/public_html/stripe/payment.php on line 14
+[19-Mar-2025 09:07:10 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/server.php on line 9
+[19-Mar-2025 09:07:11 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_gA5YaweqlkByHL) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+Stripe\Exception\InvalidRequestException: The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(184): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/AbstractService.php(75): Stripe\BaseStripeClient->request()
+#7 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/Checkout/SessionService.php(59): Stripe\Service\AbstractService->request()
+#8 /home/ot2ryobi838h/public_html/stripe/server.php(28): Stripe\Service\Checkout\SessionService->create()
+#9 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-Mar-2025 09:07:12 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/server.php on line 9
+[19-Mar-2025 09:07:13 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_enE7HtLcIm8vRz) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+Stripe\Exception\InvalidRequestException: The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(184): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/AbstractService.php(75): Stripe\BaseStripeClient->request()
+#7 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/Checkout/SessionService.php(59): Stripe\Service\AbstractService->request()
+#8 /home/ot2ryobi838h/public_html/stripe/server.php(28): Stripe\Service\Checkout\SessionService->create()
+#9 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-Mar-2025 09:07:13 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/server.php on line 9
+[19-Mar-2025 09:07:14 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_qrq1P2dZvw87k3) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+Stripe\Exception\InvalidRequestException: The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(184): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/AbstractService.php(75): Stripe\BaseStripeClient->request()
+#7 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/Checkout/SessionService.php(59): Stripe\Service\AbstractService->request()
+#8 /home/ot2ryobi838h/public_html/stripe/server.php(28): Stripe\Service\Checkout\SessionService->create()
+#9 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-Mar-2025 09:07:16 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/server.php on line 9
+[19-Mar-2025 09:07:17 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_P8Wb8kJM6u4qSq) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+Stripe\Exception\InvalidRequestException: The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(184): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/AbstractService.php(75): Stripe\BaseStripeClient->request()
+#7 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/Checkout/SessionService.php(59): Stripe\Service\AbstractService->request()
+#8 /home/ot2ryobi838h/public_html/stripe/server.php(28): Stripe\Service\Checkout\SessionService->create()
+#9 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-Mar-2025 09:07:23 UTC] PHP Warning:  Undefined array key "amount" in /home/ot2ryobi838h/public_html/stripe/server.php on line 9
+[19-Mar-2025 09:07:23 UTC] PHP Fatal error:  Uncaught Error sending request to Stripe: (Status 400) (Request req_YyiNH8LvGt54UU) The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts
+Stripe\Exception\InvalidRequestException: The Checkout Session's total amount due cannot be zero in `payment` mode. Please see https://stripe.com/docs/currencies#minimum-and-maximum-charge-amounts in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php:38
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/InvalidRequestException.php(35): Stripe\Exception\ApiErrorException::factory()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(230): Stripe\Exception\InvalidRequestException::factory()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(191): Stripe\ApiRequestor::_specificV1APIError()
+#3 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(637): Stripe\ApiRequestor->handleErrorResponse()
+#4 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiRequestor.php(136): Stripe\ApiRequestor->_interpretResponse()
+#5 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(184): Stripe\ApiRequestor->request()
+#6 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/AbstractService.php(75): Stripe\BaseStripeClient->request()
+#7 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Service/Checkout/SessionService.php(59): Stripe\Service\AbstractService->request()
+#8 /home/ot2ryobi838h/public_html/stripe/server.php(28): Stripe\Service\Checkout\SessionService->create()
+#9 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-Mar-2025 09:17:42 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/ot2ryobi838h/public_html/stripe/payment.php on line 5
+[19-Mar-2025 09:17:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/payment.php on line 5
+[19-Mar-2025 09:20:45 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 09:22:14 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 09:22:14 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 09:23:15 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 09:27:06 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 09:27:06 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 11:05:43 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 11:06:29 UTC] PHP Fatal error:  Uncaught Stripe\Exception\InvalidArgumentException: Found unknown key(s) in configuration array: 'secret_key' in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php:416
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php(84): Stripe\BaseStripeClient->validateConfig()
+#1 /home/ot2ryobi838h/public_html/stripe/config.php(7): Stripe\BaseStripeClient->__construct()
+#2 /home/ot2ryobi838h/public_html/stripe/payment.php(3): require('/home/ot2ryobi8...')
+#3 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/BaseStripeClient.php on line 416
+[19-Mar-2025 11:28:49 UTC] PHP Warning:  Undefined variable $config in /home/ot2ryobi838h/public_html/stripe/index.php on line 34
+[19-Mar-2025 11:28:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 34
+[19-Mar-2025 11:28:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/index.php on line 34
+[19-Mar-2025 11:39:42 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:39:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:39:42 UTC] PHP Warning:  Undefined variable $paymentMethod in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[19-Mar-2025 11:39:42 UTC] PHP Fatal error:  Uncaught Stripe\Exception\UnexpectedValueException: Could not determine which URL to request: Stripe\PaymentMethod instance has invalid ID:  in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php:107
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(121): Stripe\ApiResource::resourceUrl()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(57): Stripe\ApiResource->instanceUrl()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/PaymentMethod.php(207): Stripe\ApiResource->refresh()
+#3 /home/ot2ryobi838h/public_html/stripe/payment.php(13): Stripe\PaymentMethod::retrieve()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php on line 107
+[19-Mar-2025 11:41:02 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:41:02 UTC] PHP Warning:  Undefined variable $paymentMethod in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[19-Mar-2025 11:41:02 UTC] PHP Fatal error:  Uncaught Stripe\Exception\UnexpectedValueException: Could not determine which URL to request: Stripe\PaymentMethod instance has invalid ID:  in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php:107
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(121): Stripe\ApiResource::resourceUrl()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(57): Stripe\ApiResource->instanceUrl()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/PaymentMethod.php(207): Stripe\ApiResource->refresh()
+#3 /home/ot2ryobi838h/public_html/stripe/payment.php(13): Stripe\PaymentMethod::retrieve()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php on line 107
+[19-Mar-2025 11:41:39 UTC] PHP Warning:  Trying to access array offset on value of type int in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/public_html/stripe/payment.php on line 9
+[19-Mar-2025 11:41:39 UTC] PHP Warning:  Undefined variable $paymentMethod in /home/ot2ryobi838h/public_html/stripe/payment.php on line 13
+[19-Mar-2025 11:41:39 UTC] PHP Fatal error:  Uncaught Stripe\Exception\UnexpectedValueException: Could not determine which URL to request: Stripe\PaymentMethod instance has invalid ID:  in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php:107
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(121): Stripe\ApiResource::resourceUrl()
+#1 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php(57): Stripe\ApiResource->instanceUrl()
+#2 /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/PaymentMethod.php(207): Stripe\ApiResource->refresh()
+#3 /home/ot2ryobi838h/public_html/stripe/payment.php(13): Stripe\PaymentMethod::retrieve()
+#4 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/vendor/stripe/stripe-php/lib/ApiResource.php on line 107
+[19-Mar-2025 14:51:25 UTC] PHP Warning:  require_once(libraries/inc_phpmailer.php): Failed to open stream: No such file or directory in /home/ot2ryobi838h/public_html/stripe/payment.php on line 50
+[19-Mar-2025 14:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libraries/inc_phpmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ot2ryobi838h/public_html/stripe/payment.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/payment.php on line 50
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $host in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 23
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $SMTPAuth in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 24
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $Username in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 25
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $Password in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 26
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $Port in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 28
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $mailerFrom in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 32
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $mailerId in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 32
+[19-Mar-2025 14:54:05 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/ot2ryobi838h/app/libraries/PHPMailer/src/PHPMailer.php on line 1308
+[19-Mar-2025 14:54:05 UTC] PHP Warning:  Undefined variable $messageError in /home/ot2ryobi838h/app/libraries/inc_phpmailer.php on line 79
+[19-Mar-2025 17:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/ot2ryobi838h/public_html/stripe/config.php:2
+Stack trace:
+#0 /home/ot2ryobi838h/public_html/stripe/index.php(17): require()
+#1 {main}
+  thrown in /home/ot2ryobi838h/public_html/stripe/config.php on line 2
+[19-Mar-2025 18:01:01 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "secret_key", expecting "]" in /home/ot2ryobi838h/public_html/stripe/config.php on line 8
+[19-Mar-2025 18:01:09 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "secret_key", expecting "]" in /home/ot2ryobi838h/public_html/stripe/config.php on line 8
+[19-Mar-2025 18:29:34 UTC] PHP Warning:  Undefined variable $business in /home/ot2ryobi838h/app/views/admin/sales/invoices/mail.php on line 27
+[19-Mar-2025 18:29:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ot2ryobi838h/app/views/admin/sales/invoices/mail.php on line 27
+[19-Mar-2025 18:29:34 UTC] PHP Warning:  Undefined variable $operation_details in /home/ot2ryobi838h/app/views/admin/sales/invoices/mail.php on line 45
+[19-Mar-2025 18:29:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ot2ryobi838h/app/views/admin/sales/invoices/mail.php on line 45
+[19-Mar-2025 18:29:34 UTC] PHP Warning:  Undefined variable $id in /home/ot2ryobi838h/app/views/admin/sales/invoices/mail.php on line 147

@@ -1,0 +1,1008 @@
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4L1VINULDtTeqk30CKKQlD
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 3
+            [exp_year] => 2028
+            [fingerprint] => ZWpcApqD6UT5c9pL
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 7067
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742384581
+    [customer] => 
+    [livemode] => 1
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4L52INULDtTeqkiDYv655u
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 3
+            [exp_year] => 2028
+            [fingerprint] => ZWpcApqD6UT5c9pL
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 7067
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742384800
+    [customer] => 
+    [livemode] => 1
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4NxnINULDtTeqkHTm3FUBN
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 3
+            [exp_year] => 2028
+            [fingerprint] => ZWpcApqD6UT5c9pL
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 7067
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742395883
+    [customer] => 
+    [livemode] => 1
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4O0MINULDtTeqke5xMnyB5
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 3
+            [exp_year] => 2028
+            [fingerprint] => ZWpcApqD6UT5c9pL
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 7067
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742396042
+    [customer] => 
+    [livemode] => 1
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4OAPINULDtTeqkytK9Z3pt
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => mastercard
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => mastercard
+            [exp_month] => 8
+            [exp_year] => 2027
+            [fingerprint] => dMoyUCZQ3E21zujw
+            [funding] => debit
+            [generated_from] => 
+            [last4] => 8252
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => mastercard
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => regulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742396665
+    [customer] => 
+    [livemode] => 1
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4QwXINULDtTeqkyWEeCq4Q
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 11234
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742407338
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4RMuINULDtTeqkbNm8bNJr
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 20009
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742408972
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1R4z9bINULDtTeqkBr1QnYDf
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 30092
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 3
+            [exp_year] => 2028
+            [fingerprint] => ZWpcApqD6UT5c9pL
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 7067
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1742538843
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3RtINULDtTeqkqbLnoZtf
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 20009
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743746993
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3SyINULDtTeqk7I20FEbf
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 12345
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743747060
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3UhINULDtTeqkAWyepvvN
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 12345
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743747167
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3V6INULDtTeqkV8XE0DfR
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 12345
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743747192
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3VbINULDtTeqkXJWZhitS
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 12345
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743747223
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)
+PaymentMethod encontrado: Stripe\PaymentMethod Object
+(
+    [id] => pm_1RA3WiINULDtTeqkWaLV6qlj
+    [object] => payment_method
+    [allow_redisplay] => unspecified
+    [billing_details] => Stripe\StripeObject Object
+        (
+            [address] => Stripe\StripeObject Object
+                (
+                    [city] => 
+                    [country] => 
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 12345
+                    [state] => 
+                )
+
+            [email] => 
+            [name] => 
+            [phone] => 
+        )
+
+    [card] => Stripe\StripeObject Object
+        (
+            [brand] => visa
+            [checks] => Stripe\StripeObject Object
+                (
+                    [address_line1_check] => 
+                    [address_postal_code_check] => unchecked
+                    [cvc_check] => unchecked
+                )
+
+            [country] => US
+            [display_brand] => visa
+            [exp_month] => 12
+            [exp_year] => 2034
+            [fingerprint] => 5dRkU3afGc9IHM7L
+            [funding] => credit
+            [generated_from] => 
+            [last4] => 4242
+            [networks] => Stripe\StripeObject Object
+                (
+                    [available] => Array
+                        (
+                            [0] => visa
+                        )
+
+                    [preferred] => 
+                )
+
+            [regulated_status] => unregulated
+            [three_d_secure_usage] => Stripe\StripeObject Object
+                (
+                    [supported] => 1
+                )
+
+            [wallet] => 
+        )
+
+    [created] => 1743747292
+    [customer] => 
+    [livemode] => 
+    [metadata] => Stripe\StripeObject Object
+        (
+        )
+
+    [radar_options] => Array
+        (
+        )
+
+    [type] => card
+)

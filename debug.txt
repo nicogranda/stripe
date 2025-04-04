@@ -1,0 +1,7 @@
+Array
+(
+    [payment_method] => pm_1RA3WiINULDtTeqkWaLV6qlj
+    [amount] => 1000
+    [email] => 0
+    [operation] => 0
+)
