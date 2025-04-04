@@ -1,2 +1,1 @@
-# stripe
-payment gateway
+# Stripe
